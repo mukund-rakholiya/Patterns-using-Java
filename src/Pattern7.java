@@ -11,7 +11,7 @@ public class Pattern7 {
 
             System.out.println();
         }
-
+ 
         for (int i = 1; i <= n / 2; i++) {
             for (int j = n / 2; j > i; j--)
                 System.out.print("  ");
@@ -23,6 +23,7 @@ public class Pattern7 {
         }
     }
 }
+
 
 //        * * * * * * * * *
 //          * * * * * * *
