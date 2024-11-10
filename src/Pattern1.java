@@ -7,7 +7,7 @@ public class Pattern1 {
         }
     }
 }
-
+ 
 //        *
 //        * *
 //        * * *
