@@ -29,7 +29,9 @@ This repository contains solutions for printing various **star and number patter
 ## 📋 Current Patterns
 1. **Pattern1.java**: Simple and beginner-friendly. 🟢
 2. **Pattern2.java**: A small step up in complexity. 🟢
-...
+.
+.
+.
 10. **Pattern10.java**: Advanced logic for seasoned programmers! 🔴
 
 ## 🛠️ Prerequisites
