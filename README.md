@@ -49,6 +49,6 @@ This repository contains solutions for printing various **star and number patter
 ## 📜 License
   - This repository is licensed under the MIT License.
 
-##🔗 Stay Connected
+## 🔗 Stay Connected
   - If you enjoy this repo, feel free to ⭐ it! Happy coding! 💻✨
 
