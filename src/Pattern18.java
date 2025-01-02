@@ -8,7 +8,7 @@ public class Pattern18 {
                 else System.out.print(" ");
             }
             System.out.println();
-        }
+        } 
     }
 }
 
