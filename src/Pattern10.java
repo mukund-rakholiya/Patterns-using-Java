@@ -15,7 +15,7 @@ public class Pattern10 {
             System.out.println();
         }
     }
-} 
+}
 
 
 // * * * * * * * * * *
