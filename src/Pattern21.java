@@ -1,6 +1,7 @@
 public class ZigZagPattern {
     public static void main(String[] args) {
-        int n = 15; // Number of columns (length of the pattern)
+
+    int n = 15; // Number of columns (length of the pattern)
         
         for (int i = 1; i <= 3; i++) { // Three rows for the zig-zag
             for (int j = 1; j <= n; j++) {
