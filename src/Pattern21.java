@@ -1,4 +1,4 @@
-public class ZigZagPattern {
+public class Pattern21 {
     public static void main(String[] args) {
 
     int n = 15; // Number of columns (length of the pattern)
