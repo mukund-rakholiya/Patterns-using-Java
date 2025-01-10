@@ -1,4 +1,4 @@
-public class CrossPattern {
+public class Pattern22 {
     public static void main(String[] args) {
         int n = 9; // Size of the pattern (odd number for symmetry)
 
