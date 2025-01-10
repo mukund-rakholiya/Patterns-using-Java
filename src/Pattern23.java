@@ -1,4 +1,4 @@
-public class HollowRhombusPattern {
+public class Pattern23 {
     public static void main(String[] args) {
         int n = 5; // Number of rows (and the width of the rhombus)
 
