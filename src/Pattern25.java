@@ -1,4 +1,4 @@
-public class HollowDiamondPattern {
+public class Pattern25 {
     public static void main(String[] args) {
         int n = 5; // Number of rows for the upper half
 
