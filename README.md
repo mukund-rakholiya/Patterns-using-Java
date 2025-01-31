@@ -32,7 +32,7 @@ This repository contains solutions for printing various **star and number patter
 .
 .
 .
-10. **Pattern10.java**: Advanced logic for seasoned programmers! 🔴
+10. **Pattern43.java**: Advanced logic for seasoned programmers! 🔴
 
 ## 🛠️ Prerequisites
   - Java JDK: Make sure you have Java 8 or higher installed.
