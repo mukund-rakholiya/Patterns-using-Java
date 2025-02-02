@@ -1,4 +1,4 @@
-public class Pattern45 {
+public class Pattern45 { 
     public static void main(String[] args) {
         int n = 5; // Number of rows
         int num = 1; // Starting number
