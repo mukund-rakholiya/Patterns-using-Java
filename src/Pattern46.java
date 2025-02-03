@@ -1,4 +1,4 @@
-public class Pattern46 { 
+public class Pattern46 {
     public static void main(String[] args) {
         int n = 7; // Size of the hourglass
 
