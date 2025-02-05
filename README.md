@@ -8,7 +8,7 @@ This repository contains solutions for printing various **star and number patter
 ## 📂 Repository Overview  
 
 - **Files**:  
-  - `Pattern1.java` to `Pattern43.java` (and growing! 🌱)  
+  - `Pattern1.java` to `Pattern48.java` (and growing! 🌱)  
 - **Difficulty**:  
   - The higher the pattern number, the more challenging the logic! 💡  
 
