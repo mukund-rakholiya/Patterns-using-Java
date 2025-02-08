@@ -43,8 +43,8 @@ This repository contains solutions for printing various **star and number patter
 
 ## 🌟 Future Goals
   - Add more patterns to the collection.
-  - Include explanations and comments for complex patterns.
-  - Provide categorized patterns like geometric shapes, pyramids, etc.
+  - Include comments for complex patterns.
+  - Provide various patterns like geometric shapes, pyramids, etc.
 
 ## 📜 License
   - This repository is licensed under the MIT License.
