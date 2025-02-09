@@ -1,5 +1,4 @@
-public class Pattern51 {
-    public static void main(String[] args) {
+public static void main(String[] args) {
         int n = 5; // Number of rows in the upper half
 
         // Upper half of the diamond
