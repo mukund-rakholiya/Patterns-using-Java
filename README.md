@@ -8,7 +8,7 @@ This repository contains solutions for printing various **star and number patter
 ## 📂 Repository Overview  
 
 - **Files**:  
-  - `Pattern1.java` to `Pattern50.java` (and growing! 🌱)  
+  - [`Pattern1.java`](https://github.com/mukund-rakholiya/Patterns-using-Java/blob/master/src/Pattern1.java) to [`Pattern50.java`](https://github.com/mukund-rakholiya/Patterns-using-Java/blob/master/src/Pattern50.java) (and growing! 🌱)  
 - **Difficulty**:  
   - The higher the pattern number, the more challenging the logic! 💡  
 
@@ -28,9 +28,9 @@ This repository contains solutions for printing various **star and number patter
 
 ## 📋 Current Patterns
 1. **Pattern1.java**: Simple and beginner-friendly. 🟢
-2. **Pattern2.java**: A small step up in complexity. 🟢
-.
-.
+2. **Pattern2.java**: A small step up in complexity. 🟢 <br>
+. <br>
+. <br>
 .
 10. **Pattern50.java**: Advanced logic for seasoned programmers! 🔴
 
