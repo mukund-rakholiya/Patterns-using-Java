@@ -1,5 +1,5 @@
 public class Pattern57 {
-    public static void main(String[] args) {
+     public static void main(String[] args) 
         int n = 5; // Number of rows
         int maxStars = 2 * n - 1; // Maximum number of stars in a row
 
